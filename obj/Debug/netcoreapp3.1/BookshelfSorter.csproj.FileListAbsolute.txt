@@ -1,0 +1,13 @@
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\bin\Debug\netcoreapp3.1\BookshelfSorter.exe
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\bin\Debug\netcoreapp3.1\BookshelfSorter.deps.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\bin\Debug\netcoreapp3.1\BookshelfSorter.runtimeconfig.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\bin\Debug\netcoreapp3.1\BookshelfSorter.runtimeconfig.dev.json
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\bin\Debug\netcoreapp3.1\BookshelfSorter.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\bin\Debug\netcoreapp3.1\BookshelfSorter.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\obj\Debug\netcoreapp3.1\BookshelfSorter.csprojAssemblyReference.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\obj\Debug\netcoreapp3.1\BookshelfSorter.AssemblyInfoInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\obj\Debug\netcoreapp3.1\BookshelfSorter.AssemblyInfo.cs
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\obj\Debug\netcoreapp3.1\BookshelfSorter.csproj.CoreCompileInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\obj\Debug\netcoreapp3.1\BookshelfSorter.dll
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\obj\Debug\netcoreapp3.1\BookshelfSorter.pdb
+C:\Users\lagau\OneDrive\Documents\Git\C#\Applications\BookshelfSorter\obj\Debug\netcoreapp3.1\BookshelfSorter.genruntimeconfig.cache
